@@ -1,0 +1,24 @@
+{
+  "name": "ncloudlognoti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosfet1kg/ncloudLogNoti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosfet1kg/ncloudLogNoti/issues"
+  },
+  "homepage": "https://github.com/mosfet1kg/ncloudLogNoti#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "dotenv": "^4.0.0",
+    "tail": "^1.2.3"
+  }
+}
